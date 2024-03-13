@@ -89,6 +89,7 @@ http://radio.latina.red/ultimafrecuencia ~Radio-Ultima-Frecuencia~ #Alternative
 
 //ANIME
 
+https://live.bilibili.com/3535448 ~Bilibili-Tokyo-FM~ #Anime
 https://stream.zeno.fm/qpn8mkt8c4duv ~Anime-Para-Ti~ #Anime
 https://radio.stereoanime.net/listen/stereoanime/128 ~stereoanime~ #Anime
 https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u ~Gensokyo-Radio~ #Anime
