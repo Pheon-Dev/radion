@@ -37,7 +37,7 @@ function play_station ()
 	if [[ $SHOW_MPV_KEYBINDINGS == "yes" ]]; then keybindings;fi
 	echo -e "${B}STATION: ${Y}$STATION${n}"
 	echo -e "${B}URL    : ${C}$STATION_URL${n}"
-	mpv $STATION_URL
+	mpv --no-video $STATION_URL
 }
 
 function print_logo ()
