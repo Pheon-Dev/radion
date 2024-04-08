@@ -1,6 +1,6 @@
 #! /bin/bash
 # ╭───╮╭───╮╭───╮╭───╮╭───╮╭───╮
-# │ R ││ A ││ D ││ I ││ O ││ N │
+# │ R ││ A ││ D ││ I ││ O ││ 󰐹 │
 # ╰───╯╰───╯╰───╯╰───╯╰───╯╰───╯
 #A bash script written by Christos Angelopoulos, October 2023, under GPL v2
 
@@ -43,7 +43,7 @@ function play_station ()
 function print_logo ()
 {
 	echo -e "${B}    ╭───╮╭───╮╭───╮╭───╮╭───╮╭───╮"
-	echo -e "    │ ${Y}R ${B}││ ${Y}A ${B}││ ${Y}D ${B}││ ${Y}I ${B}││ ${Y}O ${B}││ ${Y}N ${B}│"
+	echo -e "    │ ${Y}R ${B}││ ${Y}A ${B}││ ${Y}D ${B}││ ${Y}I ${B}││ ${Y}O ${B}││ ${Y}󰐹 ${B}│"
 	echo -e "    ╰───╯╰───╯╰───╯╰───╯╰───╯╰───╯${n}"
 }
 
